@@ -34,7 +34,9 @@
     ],
     "G": "1981",
     "H": "http://www.jstage.jst.go.jp/browse/bbb/-char/en",
-    "I": "ex Agricultural and Biological Chemistry - ISSN: 0002-1369, end date: 1991"
+    "I": [
+      "ex Agricultural and Biological Chemistry - ISSN: 0002-1369, end date: 1991"
+    ]
   },
   {
     "A": "007",
@@ -71,7 +73,9 @@
     ],
     "G": "1981",
     "H": "http://pubs.acs.org/journals/ancham/",
-    "I": "ex Industrial & Engineering Chemistry - ISSN: 0096-4484, end date: 1946"
+    "I": [
+      "ex Industrial & Engineering Chemistry - ISSN: 0096-4484, end date: 1946"
+    ]
   },
   {
     "A": "011",
@@ -367,12 +371,16 @@
     "B": "Electronic Engineering Design",
     "C": "CMP Europe Ltd City Reach, 5 Greenwich View Pl, Millharbour, London, E14 9NN, United Kingdom",
     "D": "Electron. eng.",
-    "E": "en",
     "F": [
+      "en"
+    ],
+    "G": [
       "1981"
     ],
-    "G": "http://eedesign.com/",
-    "H": "ex Electronic Engineering - ISSN: 0013-4902, end date: 2001"
+    "H": "http://eedesign.com/",
+    "I": [
+      "ex Electronic Engineering - ISSN: 0013-4902, end date: 2001"
+    ]
   },
   {
     "A": "062",
@@ -1012,11 +1020,6 @@
     ],
     "G": "1981",
     "H": "http://www.sciencedirect.com/science/journal/01655817"
-  },
-  {
-    "F": [
-      null
-    ]
   },
   {
     "A": "131",
