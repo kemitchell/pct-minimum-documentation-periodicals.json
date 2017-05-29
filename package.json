@@ -1,0 +1,11 @@
+{
+  "name": "pct-minimum-documentation",
+  "version": "0.0.0",
+  "description": "publications consulted by Patent Cooperating Treaty international searching authorities",
+  "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
+  "repository": "kemitchell/pct-minimum-documentation.json",
+  "files": [
+    "index.json"
+  ],
+  "license": "CC0-1.0"
+}
